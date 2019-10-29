@@ -13,13 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.japo.java;
+package org.japo.java.main;
 
 /**
  *
  * @author Manu Portolés
  */
-public class main {
+public class Main {
 
     /**
      * @param args the command line arguments
@@ -27,5 +27,5 @@ public class main {
     public static void main(String[] args) {
         System.out.println("¡Hola Mundo!");
     }
-    
+
 }
